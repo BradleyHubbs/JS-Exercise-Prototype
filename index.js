@@ -20,7 +20,7 @@ function Airplane(name) {
   };
   
   
-  /*
+  /* stuck in codepen, finishing in the morning
   // 👇 COMPLETE YOUR WORK BELOW 👇
   // 👇 COMPLETE YOUR WORK BELOW 👇
   // 👇 COMPLETE YOUR WORK BELOW 👇
